@@ -27,10 +27,9 @@ Hi, I'm Muhammet Kaya, a Full Stack Developer 🚀 from Turkey, currently, I'm a
 
 - 👨🏽‍💻 I’m currently working on Service Communication Project;
 - 🌱 I’m currently learning React and GraphQL; 
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: muhammetkaya3509@hotmail.com;
-- 📝[Resume](https://drive.google.com/file/d/1Q54SLQ9dKH6ejsZOX-g5HiQSdhg3It8r/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/1VxPg4kxFv_S-f3x1VlF61f4vcBm1yK9I/view?usp=sharing)
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
