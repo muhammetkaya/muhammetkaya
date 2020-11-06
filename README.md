@@ -19,7 +19,7 @@
 <br />
 <br />
 
-Hi, I'm Muhammet Kaya, a Full Stack Developer 🚀 from Turkey, currently, I'm a Team Member 🙍🏽‍♂️ at [@Setur](https://setur.com.tr). Beside's programming, I enjoy playing flute and traveling.
+Hi, I'm Muhammet Kaya, a Full Stack Developer 🚀 from United Kingdom, currently, I'm a Team Member 🙍🏽‍♂️ at [@DrDocotr](https://www.drdoctor.co.uk). Beside's programming, I enjoy playing flute and traveling.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
