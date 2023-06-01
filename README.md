@@ -19,14 +19,14 @@
 <br />
 <br />
 
-Hi, I'm Muhammet Kaya, a Full Stack Developer 🚀 from United Kingdom, currently, I'm a Team Member 🙍🏽‍♂️ at [@DrDoctor](https://www.drdoctor.co.uk). Beside's programming, I enjoy playing flute and traveling.
+Hi, I'm Muhammet Kaya, a Senior Software Developer 🚀 from United Kingdom, currently, I'm a Team Member 🙍🏽‍♂️ at [@DrDoctor](https://www.drdoctor.co.uk). Beside's programming, I enjoy playing flute and traveling.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on Service Communication Project;
-- 🌱 I’m currently learning React and GraphQL; 
+- 🌱 I’m currently learning Vue and GraphQL; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: muhammetkaya3509@hotmail.com;
 - 📝[Resume](https://drive.google.com/file/d/1VxPg4kxFv_S-f3x1VlF61f4vcBm1yK9I/view?usp=sharing)
